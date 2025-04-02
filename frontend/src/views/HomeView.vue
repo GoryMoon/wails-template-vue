@@ -19,7 +19,7 @@ const { t } = useI18n();
         >{{ t("homepage.getting-started") }}</a
       >
       <a
-        href="https://github.com/misitebao/wails-template-vue"
+        href="https://github.com/GoryMoon/wails-template-vue"
         class="btn star"
         >{{ t("homepage.star-me") }}</a
       >

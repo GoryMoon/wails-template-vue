@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/misitebao/wails-template-vue/blob/main/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/misitebao/wails-template-vue"/>
+  <a href="https://github.com/GoryMoon/wails-template-vue/blob/main/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/GoryMoon/wails-template-vue"/>
   </a>
   <a href="https://github.com/misitebao/standard-repository">
     <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat.svg"/>
   </a>
-  <a href="https://github.com/misitebao/wails-template-vue/releases">
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/misitebao/wails-template-vue?include_prereleases&sort=semver">
+  <a href="https://github.com/GoryMoon/wails-template-vue/releases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/GoryMoon/wails-template-vue?include_prereleases&sort=semver">
   </a>
   <a href="https://github.com/wailsapp/awesome-wails">
     <img alt="Awesome-Wails" src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg"/>
@@ -70,7 +70,7 @@ The official built-in template only provides the minimum content required to dev
 
 ## Graphic Demo
 
-[![Demo Screenshot](https://cdn.jsdelivr.net/gh/misitebao/wails-template-vue@main/.github/preview.en.png "click to view gif demo")](https://cdn.jsdelivr.net/gh/misitebao/wails-template-vue@main/.github/preview.gif)
+[![Demo Screenshot](https://cdn.jsdelivr.net/gh/GoryMoon/wails-template-vue@main/.github/preview.en.png "click to view gif demo")](https://cdn.jsdelivr.net/gh/GoryMoon/wails-template-vue@main/.github/preview.gif)
 
 ## Features
 
@@ -87,7 +87,7 @@ The official built-in template only provides the minimum content required to dev
 **New Project**:
 
 ```
-wails init -n <Your Appname> -t https://github.com/misitebao/wails-template-vue[@version]
+wails init -n <Your Appname> -t https://github.com/GoryMoon/wails-template-vue[@version]
 ```
 
 flag description:
@@ -112,14 +112,17 @@ Then you can refer to the official [Wails document](https://wails.io) to start d
 
 Thanks to the maintainers of these projects:
 
-<a href="https://github.com/misitebao">
-  <img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/>
+<a href="https://github.com/GoryMoon">
+  <img src="https://github.com/GoryMoon.png" width="40" height="40" alt="GoryMoon" title="GoryMoon"/>
 </a>
 
 ## Contributors
 
-Thanks to all the contributors involved in the development. [Contributors](https://github.com/misitebao/wails-template-vue/graphs/contributors)
+Thanks to all the contributors involved in the development. [Contributors](https://github.com/GoryMoon/wails-template-vue/graphs/contributors)
 
+<a href="https://github.com/misitebao">
+  <img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/>
+</a>
 <a href="https://github.com/eighteenzheng">
   <img src="https://github.com/eighteenzheng.png" width="40" height="40" alt="eighteenzheng" title="eighteenzheng"/>
 </a>
@@ -132,15 +135,6 @@ Thanks to all the contributors involved in the development. [Contributors](https
 - [Github Discussions](https://github.com/wailsapp/wails/discussions) - The official Github communication community of the Wails project
 - [Wails Slack](https://invite.slack.golangbridge.org/) - Wails official communication channel
 - [Twitter](https://twitter.com/wailsapp) - Wails official Twitter account
-
-Chinese Community:
-
-- <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=utlUvDwtcNG5knHBLwVdMvG39WeHh7oj&jump_from=webapi">QQ Group: 1067173054</a> - QQ Chinese Community Exchange Group
-
-## Part Of Users
-
-- [Wails API Demos](https://github.com/misitebao/wails-api-demos) - A sample program for exploring Wails API, inspired by [Electron API Demos](https://github.com/electron/electron-api-demos)
-- [Hayate](https://github.com/misitebao/hayate) - Windows application installation boot program implemented using Wails.
 
 ## Changelog
 

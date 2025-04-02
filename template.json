@@ -1,7 +1,7 @@
 {
   "name": "wails-template-vue",
   "shortname": "vue",
-  "author": "Misite Bao <i@misitebao.com>",
+  "author": "Gustaf Järgren",
   "description": "Wails template based on Vue ecology",
-  "helpurl": "https://github.com/misitebao/wails-template-vue"
+  "helpurl": "https://github.com/GoryMoon/wails-template-vue"
 }

@@ -21,8 +21,8 @@ export interface Size {
 export interface Screen {
     isCurrent: boolean;
     isPrimary: boolean;
-    width : number
-    height : number
+    width: number
+    height: number
 }
 
 // Environment information such as platform, buildtype, ...
@@ -89,6 +89,10 @@ export function WindowReload(): void;
 // Reloads the application frontend.
 export function WindowReloadApp(): void;
 
+// [WindowSetAlwaysOnTop](https://wails.io/docs/reference/runtime/window#windowsetalwaysontop)
+// Sets the window AlwaysOnTop or not on top.
+export function WindowSetAlwaysOnTop(b: boolean): void;
+
 // [WindowSetSystemDefaultTheme](https://wails.io/docs/next/reference/runtime/window#windowsetsystemdefaulttheme)
 // *Windows only*
 // Sets window theme to system default (dark/light).
@@ -122,7 +126,7 @@ export function WindowUnfullscreen(): void;
 
 // [WindowSetSize](https://wails.io/docs/reference/runtime/window#windowsetsize)
 // Sets the width and height of the window.
-export function WindowSetSize(width: number, height: number): Promise<Size>;
+export function WindowSetSize(width: number, height: number): void;
 
 // [WindowGetSize](https://wails.io/docs/reference/runtime/window#windowgetsize)
 // Gets the width and height of the window.

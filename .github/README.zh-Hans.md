@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/misitebao/wails-template-vue/blob/main/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/misitebao/wails-template-vue"/>
+  <a href="https://github.com/GoryMoon/wails-template-vue/blob/main/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/GoryMoon/wails-template-vue"/>
   </a>
   <a href="https://github.com/misitebao/standard-repository">
     <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat.svg"/>
   </a>
-  <a href="https://github.com/misitebao/wails-template-vue/releases">
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/misitebao/wails-template-vue?include_prereleases&sort=semver">
+  <a href="https://github.com/GoryMoon/wails-template-vue/releases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/GoryMoon/wails-template-vue?include_prereleases&sort=semver">
   </a>
   <a href="https://github.com/wailsapp/awesome-wails">
     <img alt="Awesome-Wails" src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg"/>
@@ -71,7 +71,7 @@
 
 ## 图形演示
 
-[![演示截图](https://cdn.jsdelivr.net/gh/misitebao/wails-template-vue@main/.github/preview.zh-Hans.png "点击查看gif演示")](https://cdn.jsdelivr.net/gh/misitebao/wails-template-vue@main/.github/preview.gif)
+[![演示截图](https://cdn.jsdelivr.net/gh/GoryMoon/wails-template-vue@main/.github/preview.zh-Hans.png "点击查看gif演示")](https://cdn.jsdelivr.net/gh/GoryMoon/wails-template-vue@main/.github/preview.gif)
 
 ## 功能
 
@@ -113,14 +113,17 @@ wails init -n <你的应用名称> -t https://github.com/misitebao/wails-templat
 
 感谢这些项目的维护者：
 
-<a href="https://github.com/misitebao">
-  <img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/>
+<a href="https://github.com/GoryMoon">
+  <img src="https://github.com/GoryMoon.png" width="40" height="40" alt="GoryMoon" title="GoryMoon"/>
 </a>
 
 ## 贡献者
 
-感谢所有参与开发的贡献者。[贡献者列表](https://github.com/misitebao/wails-template-vue/graphs/contributors)
+感谢所有参与开发的贡献者。[贡献者列表](https://github.com/GoryMoon/wails-template-vue/graphs/contributors)
 
+<a href="https://github.com/misitebao">
+  <img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/>
+</a>
 <a href="https://github.com/eighteenzheng">
   <img src="https://github.com/eighteenzheng.png" width="40" height="40" alt="eighteenzheng" title="eighteenzheng"/>
 </a>

@@ -18,8 +18,8 @@ const { t } = useI18n();
       <ul class="info">
         <li class="info-item">
           <div class="name">{{ t("aboutpage.project-repository") }}</div>
-          <a class="link" href="https://github.com/misitebao/wails-template-vue"
-            >https://github.com/misitebao/wails-template-vue</a
+          <a class="link" href="https://github.com/GoryMoon/wails-template-vue"
+            >https://github.com/GoryMoon/wails-template-vue</a
           >
         </li>
         <li class="info-item">
@@ -30,8 +30,8 @@ const { t } = useI18n();
         </li>
         <li class="info-item">
           <div class="name">{{ t("aboutpage.author") }}</div>
-          <a class="link" href="https://github.com/misitebao">{{
-            t("aboutpage.misitebao")
+          <a class="link" href="https://github.com/GoryMoon">{{
+            t("aboutpage.gorymoon")
           }}</a>
         </li>
       </ul>

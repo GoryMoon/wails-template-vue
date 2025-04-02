@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { useI18n } from "vue-i18n";
+import { WindowMinimise, Quit } from "wailsjs/runtime"
 
 const { t, availableLocales: languages, locale } = useI18n();
 
@@ -7,9 +8,8 @@ const onclickLanguageHandle = (item: string) => {
   item !== locale.value ? (locale.value = item) : false;
 };
 
-const onclickMinimise = () => {};
-
-const onclickQuit = () => {};
+const onclickMinimise = WindowMinimise;
+const onclickQuit = Quit;
 
 document.body.addEventListener("click", function (event) {
   event.preventDefault();
